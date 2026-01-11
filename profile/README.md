@@ -1,3 +1,5 @@
+[malwarian](https://github.com/ForGamesEntertainment/Malwarian)
+
 # 🎮 Welcome to ForGames Entertainment
 
 ## 🗡️ Malwarian
@@ -6,7 +8,7 @@
 
 ### About the Game
 
-**Malwarian** is an exciting roguelite action game that combines intense combat, character progression, and strategic gameplay. Dive into a world where every run is unique, every choice matters, and every victory makes you stronger.
+**Malwarian** is an exciting roguelite, bullet heaven, action game.
 
 🔗 **[View Project Repository](https://github.com/ForGamesEntertainment/Malwarian)**
 
