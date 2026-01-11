@@ -8,7 +8,7 @@
 
 ### About the Game
 
-**Malwarian** is an exciting roguelite, bullet heaven, action game.
+**Malwarian** is an exciting roguelite, bullet heaven, action game. Kill enemies, increase strength, develop character and more.
 
 🔗 **[View Project Repository](https://github.com/ForGamesEntertainment/Malwarian)**
 
